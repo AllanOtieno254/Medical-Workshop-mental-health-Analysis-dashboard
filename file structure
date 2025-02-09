@@ -1,0 +1,18 @@
+📁 healthcare-mental-health-analysis  
+│── 📜 README.md               # Project documentation  
+│── 📂 data                    
+│   ├── mental_health_dataset.csv  # Raw dataset (synthetic data)  
+│   ├── mental_health_cleaned.csv  # Cleaned dataset after preprocessing  
+│── 📂 notebooks                
+│   ├── 01_data_exploration.ipynb  # Exploratory Data Analysis (EDA)  
+│   ├── 02_visualizations.ipynb    # Visualizing key insights  
+│   ├── 03_predictive_model.ipynb  # Machine Learning model for predictions  
+│── 📂 reports  
+│   ├── mental_health_insights.pdf  # Summary of findings  
+│── 📂 scripts  
+│   ├── data_preprocessing.py  # Data cleaning and preparation  
+│   ├── model_training.py      # Machine Learning model training  
+│── 📂 assets  
+│   ├── visuals/               # Images and charts for presentation  
+│── 📜 LICENSE                 # License for project usage  
+│── 📜 .gitignore              # Files to ignore in GitHub  
