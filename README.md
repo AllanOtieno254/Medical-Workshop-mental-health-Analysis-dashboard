@@ -2,7 +2,8 @@
 **Understanding Workplace Mental Health Trends in Healthcare**  
 
 ## 📖 Overview  
-This project analyzes the **Healthcare Workforce Mental Health Dataset**, which contains **5,000 synthetic employee records**. The dataset helps uncover key trends in **workplace stress, burnout, job satisfaction, and turnover intention** within the healthcare industry.  
+This project analyzes the **Healthcare Workforce Mental Health Dataset**, which contains **5,000 synthetic employee records**. The dataset helps uncover key trends in **workplace stress, burnout, job satisfaction, and turnover intention** within the healthcare industry.  ![pg1](https://github.com/user-attachments/assets/641ffe1c-50d1-446b-96f3-1f379c1ff735)
+
 
 By leveraging **data analysis, visualization, and predictive modeling**, this project aims to:  
 - Identify workplace factors contributing to stress and burnout.  
@@ -11,6 +12,8 @@ By leveraging **data analysis, visualization, and predictive modeling**, this pr
 
 ---
 
+![pg3](https://github.com/user-attachments/assets/3b30aebe-3803-45c5-b4fc-90e863a314e0)
+![pg2](https://github.com/user-attachments/assets/851d9dcd-afc0-4c15-9b91-0fafa5612413)
 
 ---
 
